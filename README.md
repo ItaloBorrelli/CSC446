@@ -1,4 +1,5 @@
 # CSC446
+## Simulations
 
 This report and the associated code was written for the University of Victoria course CSC446: Simulations. The intention of this course was to explore and learn discrete event simulation and to perform statistical analysis of the data retreived.
 
